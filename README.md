@@ -5,7 +5,7 @@
 ## 相关文献
 我们重写的代码包括域自适应目标检测的开山之作DA以及SW, SCL, GPA, UMT, HTCN，文献目录，原始代码链接，我们重写后的代码链接如下所示：
 1、 
-* <strong>文献名称<\strong>：
+* <strong>文献名称：Domain Adaptive Faster R-CNN for Object Detection in the Wild [2018]
 * 原始代码：
 * 重写代码：
 
