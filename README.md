@@ -5,5 +5,7 @@
 ## 相关文献
 我们重写的代码包括域自适应目标检测的开山之作DA以及SW, SCL, GPA, UMT, HTCN，文献目录，原始代码链接，我们重写后的代码链接如下所示：
 1、 
-* <strong><font color='blue'>文献名称</font></strong>
+* <strong>文献名称<\strong>：
+* 原始代码：
+* 重写代码：
 
