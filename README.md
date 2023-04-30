@@ -11,20 +11,20 @@ The code we rewritten includes DA, the pioneering work of domain adaptive object
 
 ### 2、  Reference：Strong-Weak Distribution Alignment for Adaptive Object Detection [2019]
 * Original code link：https://github.com/VisionLearningGroup/DA_Detection
-* Our code：
+* Our code：https://github.com/sean-Yo/SW
 
 ### 3、  Reference：SCL: Towards Accurate Domain Adaptive Object Detection via Gradient Detach Based Stacked Complementary Losses [2019]
 * Original code link：https://github.com/harsh-99/SCL
-* Our code：
+* Our code：https://github.com/sean-Yo/SCL
 
 ### 4、  Reference：Unbiased Mean Teacher for Cross-domain Object Detection [2019]
 * Original code link：https://github.com/kinredon/umt
-* Our code：
+* Our code：https://github.com/sean-Yo/UMT
 
 ### 5、  Reference：Cross-domain Detection via Graph-induced Prototype Alignment [2019]
 * Original code link：https://github.com/ChrisAllenMing/GPA-detection
-* Our code：
+* Our code：https://github.com/sean-Yo/GPA
 
 ### 6、  Reference：Harmonizing Transferability and Discriminability for Adapting Object Detectors [2020]
 * Original code link：https://github.com/chaoqichen/HTCN
-* Our code：
+* Our code：https://github.com/sean-Yo/HTCN
