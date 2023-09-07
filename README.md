@@ -1,7 +1,7 @@
 # Fusion Adversarial Strategy Uniting Weak Graph-induced Alignment Unsupervised Domain Adaptative Network for Aero-engine Blades Surface Defects Detection
 This repo is the official implementation of ["Fusion Adversarial Strategy Uniting Weak Graph-induced Alignment Unsupervised Domain Adaptative Network for Aero-engine Blades Surface Defects Detection"] (Submitted to KBS)
 
-The source code FGWNet will be published soon~~
+The source code FGWNet and UCA dataset will be published soon~~
 
 In addition, the early operating environment of domain adaptive object detection uses the Pytorch 0.4 or 0.4.1, and the graphics card that can run these codes supports up to 2080Ti. Now 30 and 40 series graphics cards occupy the mainstream position in the market. Therefore, we rewrite the relevant code of the early domain adaptive object detection so that it can run on the 30 and 40 series GPUs.
 
