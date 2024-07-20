@@ -1,5 +1,5 @@
 # Unsupervised Cross-domain Object Detection for the Surface Defect Detection of Aero-engine Blades
-This repo is the official implementation of ["Unsupervised Cross-domain Object Detection for the Surface Defect Detection of Aero-engine Blades"] (Submitted to IEEE Transactions on Instrumentation and Measurement)
+This repo is the official implementation of ["Unsupervised Cross-domain Object Detection for the Surface Defect Detection of Aero-engine Blades"] (Submitted to IEEE Sensors Journal)
 
 The source code FGWNet and UCAB dataset will be published soon~~
 
